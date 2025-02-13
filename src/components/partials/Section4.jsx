@@ -18,7 +18,7 @@ const Section4 = () => {
     }, {
         doctorName: "Dr. Claire Brown",
         specialization: "neurosurgeon",
-        degree: "MBBS/DO",
+        degree: "MBBS",
         profile: "bestDoctor3"
     }, {
         doctorName: "Dr. Vivek Sharma",
